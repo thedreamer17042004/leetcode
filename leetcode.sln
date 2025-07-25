@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "longestPalindromicSubstring
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegularExpressionMatching", "RegularExpressionMatching\RegularExpressionMatching.csproj", "{4505997E-353D-40CD-A7FF-8C1451B5635C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "containerWithMostWater", "containerWithMostWater\containerWithMostWater.csproj", "{44F7AC3E-CAFF-4EB7-843D-AE9995A24C61}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{4505997E-353D-40CD-A7FF-8C1451B5635C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4505997E-353D-40CD-A7FF-8C1451B5635C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4505997E-353D-40CD-A7FF-8C1451B5635C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44F7AC3E-CAFF-4EB7-843D-AE9995A24C61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44F7AC3E-CAFF-4EB7-843D-AE9995A24C61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44F7AC3E-CAFF-4EB7-843D-AE9995A24C61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44F7AC3E-CAFF-4EB7-843D-AE9995A24C61}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
